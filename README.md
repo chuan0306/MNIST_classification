@@ -1,5 +1,5 @@
 # MNIST_classification
-MNIST dataset classification without AI-related library use
+MNIST dataset classification without AI-related library used
 
 ______________________________________________
 |               |   accuracy  |     loss     | 
